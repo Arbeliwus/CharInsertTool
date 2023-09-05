@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\charSplitTools\obj\Debug\charSplitTools.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\charSplitTools\obj\Debug\charSplitTools.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\charSplitTools\obj\Debug\charSplitTools.Form1.resources
+C:\Users\user\source\repos\charSplitTools\obj\Debug\charSplitTools.Properties.Resources.resources
+C:\Users\user\source\repos\charSplitTools\obj\Debug\charSplitTools.csproj.GenerateResource.cache
+C:\Users\user\source\repos\charSplitTools\obj\Debug\charSplitTools.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\charSplitTools\bin\Debug\插入符號工具.exe.config
+C:\Users\user\source\repos\charSplitTools\bin\Debug\插入符號工具.exe
+C:\Users\user\source\repos\charSplitTools\bin\Debug\插入符號工具.pdb
+C:\Users\user\source\repos\charSplitTools\obj\Debug\插入符號工具.exe
+C:\Users\user\source\repos\charSplitTools\obj\Debug\插入符號工具.pdb
